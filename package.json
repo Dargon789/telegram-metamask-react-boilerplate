@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@0xsequence/design-system": "^1.7.8",
-    "@metamask/sdk-react": "^0.30.2",
+    "@metamask/sdk-react": "^0.28.0",
     "ethers": "6.13.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
