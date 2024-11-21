@@ -2,7 +2,7 @@
 
 A demo that demonstrates how to build a telegram bot and webapp, which uses [Metamask](https://metamask.io) with React.
 
-Though this is meant to be a telegram bot, you can access the webapp directly at https://telegram-metamask-react-boilerplate.pages.dev/
+Though this is meant to be a telegram bot, you can access the webapp directly at https://telegram-metamask-react-boilerplate.sequence-demos.xyz/
 
 ## Quickstart
 
